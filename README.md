@@ -101,3 +101,6 @@ Response:
     }
 }
 ```
+## License
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat)](http://badges.mit-license.org)<br>
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
